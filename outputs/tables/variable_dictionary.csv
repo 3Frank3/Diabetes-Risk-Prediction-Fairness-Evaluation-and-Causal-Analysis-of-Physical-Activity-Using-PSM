@@ -1,0 +1,10 @@
+Variable,Type,Description
+GenHlth,Ordinal (1-5),"Self-rated overall health; 1=excellent, 5=poor"
+PhysHlth,Count (0-30),Days of poor physical health in past 30 days
+MentHlth,Count (0-30),Days of poor mental health in past 30 days
+DiffWalk,Binary,Serious difficulty walking or climbing stairs
+Age,Ordinal (1-13),Age group from 18-24 through 80+
+Sex,Binary,"0=female, 1=male"
+Income,Ordinal (1-8),Income category from <10k to 75k+
+Education,Ordinal (1-6),Education level from no school to college graduate
+Diabetes_binary,Binary,"0=no diabetes, 1=diabetes"

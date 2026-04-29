@@ -1,0 +1,15 @@
+Variable,Category,Count,Diabetes prevalence
+BMI_group,Underweight,"3,127",5.4%
+BMI_group,Normal,"86,099",6.2%
+BMI_group,Overweight,"91,176",12.7%
+BMI_group,Obese,"73,278",24.9%
+HighBP,No,"144,851",6.0%
+HighBP,Yes,"108,829",24.4%
+HighChol,No,"146,089",8.0%
+HighChol,Yes,"107,591",22.0%
+CholCheck,No,"9,470",2.5%
+CholCheck,Yes,"244,210",14.4%
+Stroke,No,"243,388",13.2%
+Stroke,Yes,"10,292",31.8%
+HeartDiseaseorAttack,No,"229,787",12.0%
+HeartDiseaseorAttack,Yes,"23,893",33.0%

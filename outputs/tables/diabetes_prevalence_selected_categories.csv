@@ -1,0 +1,15 @@
+Variable,Category,N,Diabetes prevalence
+GenHlth,Excellent,"45,299",2.5%
+GenHlth,Good,"75,646",17.8%
+GenHlth,Poor,"12,081",37.9%
+DiffWalk,No,"211,005",10.5%
+DiffWalk,Yes,"42,675",30.7%
+Sex,Female,"141,974",13.0%
+Sex,Male,"111,706",15.2%
+Age,18-24,"5,700",1.4%
+Age,50-54,"26,314",11.7%
+Age,65-69,"32,194",20.4%
+Age,80+,"17,363",18.5%
+Income,<10k,"9,811",24.3%
+Income,35-50k,"36,470",14.5%
+Income,75k+,"90,385",8.0%

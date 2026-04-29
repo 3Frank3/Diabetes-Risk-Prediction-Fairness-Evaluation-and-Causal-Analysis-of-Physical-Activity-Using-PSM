@@ -1,0 +1,18 @@
+Variable,Category,Count,Diabetes prevalence
+GenHlth,Excellent,"45,299",2.5%
+GenHlth,Very good,"89,084",7.2%
+GenHlth,Good,"75,646",17.8%
+GenHlth,Fair,"31,570",31.0%
+GenHlth,Poor,"12,081",37.9%
+DiffWalk,No,"211,005",10.5%
+DiffWalk,Yes,"42,675",30.7%
+PhysHlth,0,"160,052",10.5%
+PhysHlth,1-5,"46,811",14.1%
+PhysHlth,6-13,"13,157",20.3%
+PhysHlth,14-29,"14,260",25.5%
+PhysHlth,30,"19,400",29.5%
+MentHlth,0,"175,680",13.3%
+MentHlth,1-5,"41,792",11.9%
+MentHlth,6-13,"11,671",15.7%
+MentHlth,14-29,"12,449",19.2%
+MentHlth,30,"12,088",22.9%

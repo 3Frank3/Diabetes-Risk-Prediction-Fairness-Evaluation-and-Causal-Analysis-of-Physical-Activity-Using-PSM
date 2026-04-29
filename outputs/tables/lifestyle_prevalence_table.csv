@@ -1,0 +1,5 @@
+Variable,Category,Count,Diabetes prevalence
+Smoker,No,"141,257",12.1%
+Smoker,Yes,"112,423",16.3%
+PhysActivity,No,"61,760",21.1%
+PhysActivity,Yes,"191,920",11.6%

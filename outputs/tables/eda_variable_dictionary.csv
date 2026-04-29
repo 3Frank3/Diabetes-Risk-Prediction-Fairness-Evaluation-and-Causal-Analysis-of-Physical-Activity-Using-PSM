@@ -1,0 +1,18 @@
+Variable,Type,Meaning
+BMI,Continuous,Body Mass Index
+HighBP,Binary,High blood pressure
+HighChol,Binary,High cholesterol
+CholCheck,Binary,Cholesterol check in past 5 years
+Stroke,Binary,History of stroke
+HeartDiseaseorAttack,Binary,History of coronary heart disease or heart attack
+Smoker,Binary,Smoked at least 100 cigarettes in lifetime
+PhysActivity,Binary,"Physical activity in past 30 days, excluding job"
+GenHlth,Ordinal,Self-rated health from excellent to poor
+PhysHlth,Count,Poor physical health days in past 30 days
+MentHlth,Count,Poor mental health days in past 30 days
+DiffWalk,Binary,Serious difficulty walking or climbing stairs
+Age,Ordinal,Age group 18-24 through 80+
+Sex,Binary,F/M indicator
+Income,Ordinal,Income category from <10k to 75k+
+Education,Ordinal,Education level from no school to college graduate
+Diabetes_binary,Binary,No diabetes / diabetes
