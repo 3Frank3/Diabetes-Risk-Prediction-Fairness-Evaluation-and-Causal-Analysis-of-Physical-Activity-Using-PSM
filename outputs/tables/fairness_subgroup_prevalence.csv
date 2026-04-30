@@ -1,0 +1,13 @@
+Group,Subgroup,n,Prevalence
+Overall,All,76104,0.139
+Sex,F,42833,0.13
+Sex,M,33271,0.152
+Age,18-44,16421,0.042
+Age,45-64,32833,0.135
+Age,65+,26850,0.204
+Income,Low,17292,0.227
+Income,Middle,31800,0.142
+Income,High,27012,0.08
+Education,HS or less,22889,0.192
+Education,Some college,20976,0.148
+Education,College grad,32239,0.097
