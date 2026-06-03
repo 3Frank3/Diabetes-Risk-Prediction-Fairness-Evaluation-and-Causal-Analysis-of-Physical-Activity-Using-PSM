@@ -1,0 +1,40 @@
+{
+  "best_params": {
+    "Architecture": [
+      64,
+      32
+    ],
+    "Activation": "sigmoid",
+    "Learning Rate": 0.001
+  },
+  "initial_metrics": {
+    "Model": "Initial ANN",
+    "Architecture": "32",
+    "Threshold": 0.15,
+    "ROC AUC": 0.8250563784856365,
+    "PR AUC": 0.4170659950023283,
+    "Recall": 0.7541377846937332,
+    "Precision": 0.3207967264412083,
+    "F1-score": 0.45012031916240974,
+    "Brier Score": 0.09790075570344925
+  },
+  "optimized_metrics": {
+    "Model": "Optimized ANN",
+    "Architecture": "(64, 32)",
+    "Threshold": 0.15,
+    "ROC AUC": 0.8266588349396686,
+    "PR AUC": 0.42102946803964436,
+    "Recall": 0.780025463290423,
+    "Precision": 0.3146541885414289,
+    "F1-score": 0.4484202821941203,
+    "Brier Score": 0.09746896475553513
+  },
+  "error_analysis": {
+    "True Negatives": 31657.0,
+    "False Positives": 12010.0,
+    "False Negatives": 1555.0,
+    "True Positives": 5514.0,
+    "False Negative Rate": 0.22,
+    "TP/FN Ratio": 3.546
+  }
+}

@@ -1,0 +1,3 @@
+Model,Architecture,Threshold,ROC AUC,PR AUC,Recall,Precision,F1-score,Brier Score
+Initial ANN,32,0.15,0.825,0.417,0.754,0.321,0.45,0.098
+Optimized ANN,"(64, 32)",0.15,0.827,0.421,0.78,0.315,0.448,0.097

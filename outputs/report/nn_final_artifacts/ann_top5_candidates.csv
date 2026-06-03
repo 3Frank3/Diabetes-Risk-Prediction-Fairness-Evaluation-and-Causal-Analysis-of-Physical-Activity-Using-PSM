@@ -1,0 +1,6 @@
+Architecture,Activation,Learning Rate,Val PR AUC,Val Recall,Val Precision,Val F1-score,Epochs Used
+"(64, 32)",sigmoid,0.001,0.434,0.776,0.313,0.446,19
+"(64,)",sigmoid,0.001,0.434,0.768,0.316,0.448,20
+"(64,)",tanh,0.0001,0.433,0.76,0.32,0.45,50
+"(64,)",sigmoid,0.0001,0.433,0.764,0.319,0.45,50
+"(32, 16)",sigmoid,0.001,0.433,0.771,0.314,0.447,19
